@@ -13,4 +13,3 @@ function chpwd_cdls() {
     eval ${CD_LS_COMMAND:-ls}
   fi
 }
-
